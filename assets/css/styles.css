@@ -6,6 +6,26 @@ body {
 	background-position: center;
 	background-size: cover;
 }
+
+.bgNav {
+	background-color: #343a40;
+	background-image: linear-gradient(to bottom, #851a21, #460b0b);
+	color: white;
+}
+.bgDropdown {
+	background-image: linear-gradient(to bottom, #4b1619, #270d0d);
+}
+
+.nav-link {
+	font-size: 18px;
+}
+
+.appTitle {
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+}
+
 h2 {
 	margin-bottom: 30px;
 }

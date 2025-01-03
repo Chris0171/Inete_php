@@ -1,5 +1,3 @@
-<h1 class="fringe">Obtener la nacionalidad española por la LMD</h1>
-
 <div class="row justify-content-end align-items-center m-0">
   <div class="col-12 col-md-9 text-container">
     <h2>INETE: Información de nacionalidad española y tramites de Extranjería.</h2>

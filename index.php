@@ -1,5 +1,5 @@
 <?php
-include ('./includes/head.php');
+include('./includes/head.php');
 ?>
 <title>INETE | Inicio</title>
 
@@ -26,21 +26,21 @@ include ('./includes/head.php');
 <!-- <meta name="twitter:image" content="https://www.tusitio.com/images/homepage.jpg"> -->
 
 <?php
-include ('./includes/head-end.php');
+include('./includes/head-end.php');
+?>
+
+<?php
+include('./includes/header.php');
 ?>
 
 <!--::::::::::::::: Body page here :::::::::::::::-->
 <div class="container-fluid p-0 m-0 mt-3">
   <?php
-  include ('./includes/pages-body/index.inc.php');
+  include('./includes/pages-body/index.inc.php');
   ?>
 </div>
 
-<?php
-include ('./includes/header.php');
-?>
-
 
 <?php
-include ('./includes/foot.php');
+include('./includes/foot.php');
 ?>
