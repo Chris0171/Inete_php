@@ -1,0 +1,83 @@
+body {
+	background-color: white;
+	background-image: url("../images/madrid_center.jpg");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+h2 {
+	margin-bottom: 30px;
+}
+p,
+li {
+	font-size: 18px;
+}
+.fringe {
+	background-color: rgba(168, 0, 39, 0.85);
+	text-align: center;
+	padding: 25px 0px;
+	color: white;
+}
+span img {
+	width: 85px;
+	height: 60px;
+	box-shadow: 0px 0px 8px 0.3px;
+}
+.countryBtn {
+	padding: 5px 20px;
+	border-radius: 10px;
+	border: 3px solid rgb(193, 28, 66);
+	font-weight: bold;
+	background-color: white;
+	color: black;
+	transition: 0.15s ease-in-out;
+}
+.countryBtn:hover {
+	background-color: rgb(193, 28, 66);
+	color: white;
+	transform: scale(1.15);
+}
+.countryBtn:active {
+	transform: scale(1);
+}
+.hrDiv {
+	border: 2px solid rgba(168, 0, 39, 0.85);
+}
+#america {
+	display: none;
+}
+#europa {
+	display: none;
+}
+#africa {
+	display: block;
+}
+.text-countries {
+	padding: 15px;
+	border-radius: 8px;
+	background-color: rgba(255, 255, 255, 0.85);
+}
+
+/************************* INDEX PAGE STYLES *************************/
+.text-container {
+	padding: 15px;
+	border-top-left-radius: 8px;
+	border-bottom-left-radius: 8px;
+	text-align: justify;
+	background-color: rgba(255, 255, 255, 0.85);
+}
+.separator {
+	margin: 3px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	padding: 2px;
+	background-color: rgb(99, 99, 99);
+	border-radius: 8px;
+}
+/************************* LMD DOC PAGE STYLES *************************/
+.text-underline {
+	text-decoration: underline black;
+	text-underline-offset: 6px;
+	margin-bottom: 15px;
+}
