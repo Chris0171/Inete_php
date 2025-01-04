@@ -1,4 +1,3 @@
-<h1 class="fringe">Documentación necesaria (LMD)</h1>
 <div class="row justify-content-end align-items-center m-0">
   <div class="col-12 col-md-8 text-container">
     <!-- Documentación a aportar el día de la cita para entrega del expediente -->

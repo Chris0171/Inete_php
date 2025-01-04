@@ -22,7 +22,7 @@
           </button>
           <ul class="dropdown-menu dropdown-menu-dark bgDropdown p-2">
             <li><a class="dropdown-item" href="practice.php">¿Quienes pueden optar?</a></li>
-            <li><a class="dropdown-item" href="#">Documentación a aportar</a></li>
+            <li><a class="dropdown-item" href="../lmd_doc.php">Documentación a aportar</a></li>
             <hr class="text-warning border border-2">
             <li><a class="dropdown-item" href="#">Solicitar certificaciones registrales</a></li>
           </ul>
