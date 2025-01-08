@@ -1,7 +1,7 @@
 <div class="row justify-content-end align-items-center m-0">
-  <div class="col-12 col-md-8 text-container">
+  <div class="col-12 col-md-9 text-container pe-5 ps-5 pt-4 pb-4">
     <!-- Documentación a aportar el día de la cita para entrega del expediente -->
-    <h3 class="text-underline">Documentación a aportar el día de la cita para entrega del expediente</h3>
+    <h1 class="">Documentación a aportar el día de la cita</h1>
     <p>
       Los documentos a aportar se relacionan a continuación según el caso o anexo a presentar. El registro civil o la
       oficina consular podrá requerir o solicitar documentos adicionales si son necesarios para la valoración del
@@ -13,7 +13,7 @@
       o funcionario competente.
     </p>
     <!-- Documentación a aportar para el caso de Anexo I -->
-    <h3 class="mt-4">Documentación a aportar para el caso de Anexo I:</h3>
+    <h2 class="mt-4">Para el caso de Anexo I:</h2>
     <ul>
       <li>
         Solicitud (original y copia) debidamente completada y firmada. (anexo I).
@@ -46,8 +46,11 @@
       Además de los documentos que se relacionaron a continuación para cada uno de los supuestos, la Oficina Consular
       podrá pedir datos o documentos adicionales cuando sean necesarios para valorar el expediente.
     </p>
+
+    <div class="separator"></div>
+
     <!-- Documentación a aportar para el caso de Anexo II -->
-    <h3 class="mt-4">Documentación a aportar para el caso de Anexo II:</h3>
+    <h2 class="mt-4">Para el caso de Anexo II:</h2>
     <ul>
       <li>
         Solicitud (original y copia) debidamente completada y firmada. (anexo II).
@@ -76,8 +79,11 @@
         éste se formalizó.
       </li>
     </ul>
+
+    <div class="separator"></div>
+
     <!-- Documentación a aportar para el caso de Anexo III -->
-    <h3 class="mt-4">Documentación a aportar para el caso de Anexo III</h3>
+    <h2 class="mt-4">Para el caso de Anexo III</h2>
     <ul>
       <li>
         Solicitud (original y copia) debidamente completada y firmada. (anexo III).

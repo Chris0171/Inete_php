@@ -1,5 +1,5 @@
 <?php
-include('./includes/head.php');
+include('../includes/head.php');
 ?>
 <title>INETE | LMD Documentación</title>
 
@@ -7,13 +7,13 @@ include('./includes/head.php');
 <meta name="description" content="Documentación a aportar el día de la cita para entrega del expediente.">
 <meta name="robots" content="index, follow">
 <meta name="googlebot" content="index, follow">
-<link rel="canonical" href="https://inete.com/lmd_doc.php">
+<link rel="canonical" href="https://inete.com/lmd/lmd_doc.php">
 
 <!-- Open Graph para Facebook y otros -->
 <meta property="og:title" content="INETE | LMD Documentación">
 <meta property="og:description" content="Documentación a aportar el día de la cita para entrega del expediente.">
 <!-- <meta property="og:image" content="https://www.tusitio.com/images/homepage.jpg"> -->
-<meta property="og:url" content="https://inete.com/lmd_doc.php">
+<meta property="og:url" content="https://inete.com/lmd/lmd_doc.php">
 <meta property="og:type" content="website">
 
 <!-- Twitter Cards -->
@@ -23,21 +23,21 @@ include('./includes/head.php');
 <!-- <meta name="twitter:image" content="https://www.tusitio.com/images/homepage.jpg"> -->
 
 <?php
-include('./includes/head-end.php');
+include('../includes/head-end.php');
 ?>
 
 <?php
-include('./includes/header.php');
+include('../includes/header.php');
 ?>
 
 <!--::::::::::::::: Body page here :::::::::::::::-->
 <div class="container-fluid p-0 m-0 mt-3">
   <?php
-  include('./includes/pages-body/lmd_doc.inc.php');
+  include('../includes/pages-body/lmd/doc.inc.php');
   ?>
 </div>
 
 
 <?php
-include('./includes/foot.php');
+include('../includes/foot.php');
 ?>
