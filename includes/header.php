@@ -39,11 +39,15 @@
           <ul class="dropdown-menu dropdown-menu-dark bgDropdown p-2">
             <li><a class="dropdown-item" href="../nationality/residence.php">Nacionalidad española por residencia</a>
             </li>
-            <li><a class="dropdown-item" href="#">Documentación para mayores de edad</a></li>
-            <li><a class="dropdown-item" href="#">Documentación para menores de edad</a></li>
+            <li><a class="dropdown-item" href="../nationality/doc_for_adults.php">Documentación para mayores de edad</a>
+            </li>
+            <li><a class="dropdown-item" href="../nationality/doc_for_minors.php">Documentación para menores de edad</a>
+            </li>
             <hr class="text-warning border border-2">
-            <li><a class="dropdown-item" href="#">Documentación para casos específicos</a></li>
-            <li><a class="dropdown-item" href="#">Paises a viajar con pasaporte español</a></li>
+            <li><a class="dropdown-item" href="../nationality/doc_for_specific_cases.php">Documentación para casos
+                específicos</a></li>
+            <li><a class="dropdown-item" href="../nationality/countries.php">Paises a viajar con pasaporte español</a>
+            </li>
           </ul>
         </div>
         <!-- Dropdown "AUTORIZACIONES" -->
@@ -53,9 +57,15 @@
             AUTORIZACIONES
           </button>
           <ul class="dropdown-menu dropdown-menu-dark bgDropdown p-2">
-            <li><a class="dropdown-item" href="#">Autorización de estancia por estudios</a></li>
-            <li><a class="dropdown-item" href="#">Documentación a aportar</a></li>
-            <li><a class="dropdown-item" href="#">Solicitud de visados</a></li>
+            <li><a class="dropdown-item" href="../authorizations/stay_for_studies.php">Autorización de estancia por
+                estudios</a></li>
+            <li><a class="dropdown-item" href="../authorizations/doc_for_authorization.php">Documentación para la
+                autorización</a>
+            </li>
+            <hr class="text-warning border border-2">
+            <li><a class="dropdown-item" href="../authorizations/visa_application.php">Solicitud de visados</a></li>
+            <li><a class="dropdown-item" href="../authorizations/doc_for_application.php">Documentación para la
+                solicitud</a>
           </ul>
         </div>
         <a class="nav-link fw-bold" id="about-us" href="about-us.php">SOBRE NOSOTROS</a>
