@@ -4,7 +4,7 @@
     <div class="homeLink">
       <!-- <a class="navbar-brand fw-bold ms-2 ms-md-3" href="#"><img class="img-fluid d-inline-block"
           src="assets/favicon.ico" width="50" alt="ContentSynth-Logo" width="85"></a> -->
-      <a href="index.php" class="appTitle">
+      <a href="../index.php" class="appTitle">
         <div class="l-container">
           <p class="text-center m-0 fw-bold logo">INETE</p>
         </div>
@@ -15,7 +15,7 @@
     </button>
     <div class="navbar-collapse collapse" id="menu">
       <nav class="navbar-nav ms-md-auto">
-        <a class="nav-link fw-bold" id="index" href="index.php">INICIO</a>
+        <a class="nav-link fw-bold" id="index" href="../index.php">INICIO</a>
         <!-- Dropdown "LMD" -->
         <div class="dropdown">
           <button class="nav-link fw-bold dropdown-toggle" type="button" data-bs-toggle="dropdown"

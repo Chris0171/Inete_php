@@ -159,3 +159,20 @@ span img {
 .btn_links:active {
 	transform: scale(1);
 }
+
+/************************* FOOTER STYLES *************************/
+.footerLink {
+	color: white;
+}
+.footerLink:hover {
+	color: rgb(110, 110, 110);
+}
+.bg-footer-end {
+	background-color: #00000070;
+}
+
+.subMenu {
+	font-size: 20px;
+	margin: 0px;
+	padding-left: 6px;
+}
