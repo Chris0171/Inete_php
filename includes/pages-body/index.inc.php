@@ -2,7 +2,7 @@
   <div class="row justify-content-end align-items-center m-0">
     <div class="col-12 col-md-9 text-container">
       <h1 class="text-center">BIENVENIDOS A INETE</h1>
-      <h3>Tu guía de confianza en extranjería y nacionalidad española</h3>
+      <h4>Tu guía de confianza en extranjería y nacionalidad española</h4>
       <p>
         En este sitio web, estamos para acompañarte en cada paso de tu camino hacia la residencia, la regularización o
         la
@@ -17,6 +17,7 @@
 
       <div class="separator"></div>
 
+      <p class="fw-bold">Importante:</p>
       <p>La obtención de la nacionalidad española permite a la persona no solo vivir en territorio español, sino que
         podrán viajar por todos los países del espacio Schengen sin control fronterizo, como son: Dinamarca, Eslovenia,
         España, Estonia, Finlandia, Francia, Grecia, Hungría, Islandia, Italia, Letonia, Liechtenstein, Lituania,
@@ -27,7 +28,7 @@
 
       <div class="separator"></div>
 
-      <p class="fw-bold">¿Por qué elegirnos?</p>
+      <p class="fw-bold">¿Por qué deberías elegirnos?</p>
       <ul>
         <li>
           Ofrecemos un contenido actualizado y fácil de entender.

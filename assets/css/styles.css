@@ -176,3 +176,10 @@ span img {
 	margin: 0px;
 	padding-left: 6px;
 }
+
+/************************* Media Queries *************************/
+@media screen and (max-width: 580px) {
+	.l-container {
+		transition-property: transform;
+	}
+}
