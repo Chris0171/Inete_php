@@ -96,13 +96,13 @@ span img {
 	border: 2px solid rgba(168, 0, 39, 0.85);
 }
 #america {
-	display: none;
+	display: block;
 }
-#europa {
+#europe {
 	display: none;
 }
 #africa {
-	display: block;
+	display: none;
 }
 .text-countries {
 	padding: 15px;
@@ -134,8 +134,8 @@ span img {
 	margin-bottom: 15px;
 }
 
-/************************* REQUEST CERTIFICATIONS PAGE STYLES *************************/
-.btn_links {
+.btn_links,
+.btn_next_section {
 	text-align: center;
 	border-radius: 10px;
 	box-shadow: 0px 0px 15px 1px #606060;
@@ -147,17 +147,28 @@ span img {
 	transition-duration: 0.35s;
 	transition-timing-function: ease-in-out;
 }
-.btn_links a {
+
+.btn_links a,
+.btn_next_section a {
 	text-decoration: none;
 	color: white;
 }
-.btn_links:hover {
+.btn_links:hover,
+.btn_next_section:hover {
 	transform: scale(1.03);
 	box-shadow: 0px 0px 10px 1px #606060;
 	background-color: #00ab25;
 }
-.btn_links:active {
+.btn_links:active,
+.btn_next_section:active {
 	transform: scale(1);
+}
+
+.btn_next_section {
+	background-color: #851a21;
+}
+.btn_next_section:hover {
+	background-color: #9a0a13;
 }
 
 /************************* FOOTER STYLES *************************/

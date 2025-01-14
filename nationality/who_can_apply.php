@@ -7,14 +7,14 @@ include('../includes/head.php');
 <meta name="description" content="Ley de memoria democrática (LMD). Respuesta sobre quienes pueden optar.">
 <meta name="robots" content="index, follow">
 <meta name="googlebot" content="index, follow">
-<link rel="canonical" href="https://inete.com/lmd/who_can_apply.php">
+<link rel="canonical" href="https://inete.com/nationality/who_can_apply.php">
 
 <!-- Open Graph para Facebook y otros -->
 <meta property="og:title" content="LMD | Quienes pueden optar">
 <meta property="og:description"
   content="Ley de memoria democrática (LMD). Explicación sobre quienes pueden optar en esta ley.">
 <!-- <meta property="og:image" content="https://www.tusitio.com/images/homepage.jpg"> -->
-<meta property="og:url" content="https://inete.com/lmd/who_can_apply.php">
+<meta property="og:url" content="https://inete.com/nationality/who_can_apply.php">
 <meta property="og:type" content="website">
 
 <!-- Twitter Cards -->
@@ -35,7 +35,7 @@ include('../includes/header.php');
 <!--::::::::::::::: Body page here :::::::::::::::-->
 <div class="container-fluid p-0 m-0 mt-3">
   <?php
-  include('../includes/pages-body/lmd/who_can_apply.inc.php');
+  include('../includes/pages-body/nationality/who_can_apply.inc.php');
   ?>
 </div>
 

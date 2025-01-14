@@ -1,6 +1,6 @@
 <div class="pt-2 pe-0 ps-0 pb-4">
   <div class="row justify-content-end align-items-center m-0">
-    <div class="col-12 col-md-9 text-container">
+    <div class="col-12 col-md-9 text-container pe-5 ps-5 pt-4 pb-4">
       <h1 class="text-center">BIENVENIDOS A INETE</h1>
       <h4>Tu guía de confianza en extranjería y nacionalidad española</h4>
       <p>

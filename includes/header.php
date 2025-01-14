@@ -16,20 +16,6 @@
     <div class="navbar-collapse collapse" id="menu">
       <nav class="navbar-nav ms-md-auto">
         <a class="nav-link fw-bold" id="index" href="../index.php">INICIO</a>
-        <!-- Dropdown "LMD" -->
-        <div class="dropdown">
-          <button class="nav-link fw-bold dropdown-toggle" type="button" data-bs-toggle="dropdown"
-            aria-expanded="false">
-            LMD
-          </button>
-          <ul class="dropdown-menu dropdown-menu-dark bgDropdown p-2">
-            <li><a class="dropdown-item" href="../lmd/who_can_apply.php">¿Quienes pueden optar?</a></li>
-            <li><a class="dropdown-item" href="../lmd/lmd_doc.php">Documentación a aportar</a></li>
-            <hr class="text-warning border border-2">
-            <li><a class="dropdown-item" href="../lmd/request_certifications.php">Solicitar certificaciones
-                registrales</a></li>
-          </ul>
-        </div>
         <!-- Dropdown "NACIONALIDAD" -->
         <div class="dropdown">
           <button class="nav-link fw-bold dropdown-toggle" type="button" data-bs-toggle="dropdown"
@@ -37,16 +23,29 @@
             NACIONALIDAD
           </button>
           <ul class="dropdown-menu dropdown-menu-dark bgDropdown p-2">
-            <li><a class="dropdown-item" href="../nationality/residence.php">Nacionalidad española por residencia</a>
+            <li><a class="dropdown-item text-warning" href="../nationality/residence.php">Nacionalidad española por
+                residencia</a>
             </li>
-            <li><a class="dropdown-item" href="../nationality/doc_for_adults.php">Documentación para mayores de edad</a>
+            <li><a class="dropdown-item" href="../nationality/doc_for_adults.php"><span class="text-warning">-</span>
+                Documentación para mayores de edad</a>
             </li>
-            <li><a class="dropdown-item" href="../nationality/doc_for_minors.php">Documentación para menores de edad</a>
+            <li><a class="dropdown-item" href="../nationality/doc_for_minors.php"><span class="text-warning">-</span>
+                Documentación para menores de edad</a>
             </li>
+            <li><a class="dropdown-item" href="../nationality/doc_for_specific_cases.php"><span
+                  class="text-warning">-</span> Documentación para casos específicos</a></li>
             <hr class="text-warning border border-2">
-            <li><a class="dropdown-item" href="../nationality/doc_for_specific_cases.php">Documentación para casos
-                específicos</a></li>
-            <li><a class="dropdown-item" href="../nationality/countries.php">Paises a viajar con pasaporte español</a>
+            <li><a class="dropdown-item text-warning" href="../nationality/lmd.php">Ley de memoria democrática(LMD)</a>
+            </li>
+            <li><a class="dropdown-item" href="../nationality/who_can_apply.php"><span class="text-warning">-</span>
+                ¿Quienes pueden optar?</a></li>
+            <li><a class="dropdown-item" href="../nationality/lmd_doc.php"><span class="text-warning">-</span>
+                Documentación a aportar</a></li>
+            <li><a class="dropdown-item" href="../nationality/request_certifications.php"><span
+                  class="text-warning">-</span> Solicitar certificaciones registrales</a></li>
+            <hr class="text-warning border border-2">
+            <li><a class="dropdown-item text-warning" href="../nationality/countries.php">Paises a viajar con pasaporte
+                español</a>
             </li>
           </ul>
         </div>
@@ -57,17 +56,20 @@
             AUTORIZACIONES
           </button>
           <ul class="dropdown-menu dropdown-menu-dark bgDropdown p-2">
-            <li><a class="dropdown-item" href="../authorizations/stay_for_studies.php">Autorización de estancia por
-                estudios</a></li>
-            <li><a class="dropdown-item" href="../authorizations/doc_for_authorization.php">Documentación para la
-                autorización</a>
+            <li><a class="dropdown-item text-warning" href="../authorizations/stay_for_studies.php">Autorización de
+                estancia por estudios</a></li>
+            <li><a class="dropdown-item" href="../authorizations/doc_for_authorization.php"><span
+                  class="text-warning">-</span> Documentación</a>
             </li>
             <hr class="text-warning border border-2">
-            <li><a class="dropdown-item" href="../authorizations/visa_application.php">Solicitud de visados</a></li>
-            <li><a class="dropdown-item" href="../authorizations/doc_for_application.php">Documentación para la
-                solicitud</a>
+            <li><a class="dropdown-item text-warning" href="../authorizations/visa_application.php">Solicitud de
+                visados</a></li>
+            <li><a class="dropdown-item" href="../authorizations/doc_for_application.php"><span
+                  class="text-warning">-</span> Documentación</a>
           </ul>
         </div>
+        <a class="nav-link fw-bold" id="about-us" href="../nationality/countries.php">PAÍSES</a>
+        <div class="border border-start border-2 border-warning m-1 ms-3 me-3"></div>
         <a class="nav-link fw-bold" id="about-us" href="about-us.php">SOBRE NOSOTROS</a>
       </nav>
     </div>

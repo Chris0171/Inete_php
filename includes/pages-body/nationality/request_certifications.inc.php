@@ -17,13 +17,13 @@
       </ul>
 
       <div class="row justify-content-center align-items-center text-center mt-4 mb-3">
-        <div class="col-12 col-sm-4 col-md-3 m-auto mt-5 mt-md-2">
-          <p class="fw-bold">Ministerio de justicia España</p>
+        <div class="col-12 col-sm-6 col-md-4 m-auto mt-5 mt-md-2">
+          <p class="fw-bold">Ministerio de justicia</p>
           <div class="btn_links">
             <a href="https://www.mjusticia.gob.es/es">Visitar web</a>
           </div>
         </div>
-        <div class="col-12 col-sm-4 col-md-3 m-auto mt-5 mt-md-2">
+        <div class="col-12 col-sm-6 col-md-4 m-auto mt-5 mt-md-2">
           <p class="fw-bold">Registro civil España</p>
           <div class="btn_links"><a href="https://www.e-registros.es/registros-civiles-de-espana">Visitar web</a></div>
         </div>

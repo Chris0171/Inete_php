@@ -8,13 +8,13 @@
       <button class="countryBtn">América</button>
     </div>
     <div class="col-sm-auto mb-2 mb-md-0">
-      <button class="countryBtn">Afríca</button>
+      <button class="countryBtn">África</button>
     </div>
   </div>
   <div class="row">
     <div class="col-12 text-countries">
       <!-- Europa countries -->
-      <div id="europa">
+      <div id="europe" class="show">
         <p>Como ciudadano español, puedes viajar a todos los países de Europa sin necesidad de visa. España forma parte
           de la Unión Europea (UE) y del Espacio Schengen, lo que permite la libre circulación de personas dentro de la
           mayoría de los países europeos. Aquí te doy una lista de los países europeos a los que puedes viajar sin
@@ -411,7 +411,7 @@
         </ul>
       </div>
       <!-- Latinoamerica countries -->
-      <div id="america">
+      <div id="america" class="hide">
         <p>Los ciudadanos españoles tienen una gran facilidad para viajar a muchos países de América Latina sin
           necesidad de visa, gracias a diversos acuerdos bilaterales y regionales. Aquí tienes una lista de países de
           América Latina a los que los ciudadanos españoles pueden viajar sin visa para estancias cortas (generalmente
@@ -591,7 +591,7 @@
         </ul>
       </div>
       <!-- Africa countries -->
-      <div id="africa">
+      <div id="africa" class="hide">
         <p>Los ciudadanos españoles tienen la posibilidad de viajar a varios países de África sin necesidad de visa, o
           con la opción de obtener una visa a la llegada o un visado electrónico (e-visa). Aquí tienes una lista de
           algunos de esos países y los requisitos de entrada:</p><br>
@@ -808,3 +808,5 @@
     </div>
   </div>
 </div>
+
+<script src="../assets/js/script.js"></script>

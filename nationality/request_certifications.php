@@ -1,25 +1,25 @@
 <?php
 include('../includes/head.php');
 ?>
-<title>INETE | LMD Documentación</title>
+<title>INETE | LMD Certificados</title>
 
 <!--::::::::::::::: Meta tags here :::::::::::::::-->
-<meta name="description" content="Documentación a aportar el día de la cita para entrega del expediente.">
+<meta name="description" content="Ley de memoria democrática (LMD). Obtener certificaciones registrales.">
 <meta name="robots" content="index, follow">
 <meta name="googlebot" content="index, follow">
-<link rel="canonical" href="https://inete.com/lmd/lmd_doc.php">
+<link rel="canonical" href="https://inete.com/nationality/request_certifications.php">
 
 <!-- Open Graph para Facebook y otros -->
-<meta property="og:title" content="INETE | LMD Documentación">
-<meta property="og:description" content="Documentación a aportar el día de la cita para entrega del expediente.">
+<meta property="og:title" content="LMD | Quienes pueden optar">
+<meta property="og:description" content="Ley de memoria democrática (LMD). Obtener certificaciones registrales.">
 <!-- <meta property="og:image" content="https://www.tusitio.com/images/homepage.jpg"> -->
-<meta property="og:url" content="https://inete.com/lmd/lmd_doc.php">
+<meta property="og:url" content="https://inete.com/nationality/request_certifications.php">
 <meta property="og:type" content="website">
 
 <!-- Twitter Cards -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="INETE | LMD Documentación">
-<meta name="twitter:description" content="Documentación a aportar el día de la cita para entrega del expediente.">
+<meta name="twitter:title" content="LMD | Quienes pueden optar">
+<meta name="twitter:description" content="Ley de memoria democrática (LMD). Obtener certificaciones registrales.">
 <!-- <meta name="twitter:image" content="https://www.tusitio.com/images/homepage.jpg"> -->
 
 <?php
@@ -33,7 +33,7 @@ include('../includes/header.php');
 <!--::::::::::::::: Body page here :::::::::::::::-->
 <div class="container-fluid p-0 m-0 mt-3">
   <?php
-  include('../includes/pages-body/lmd/doc.inc.php');
+  include('../includes/pages-body/nationality/request_certifications.inc.php');
   ?>
 </div>
 

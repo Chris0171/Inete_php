@@ -58,7 +58,14 @@
         Los modelos de solicitud se pueden obtener de manera telemática en la web del ministerio de justicia, del
         ministerio de asuntos exteriores o en el consulado al que pertenece según su lugar de residencia.
       </p>
+      <div class="row justify-content-center align-items-center text-center mt-4 mb-3">
+        <div class="col-12 col-sm-8 col-md-6 m-auto mt-5 mt-md-2">
+          <p class="fw-bold">Revisar documentación necesaria</p>
+          <div class="btn_next_section">
+            <a href="lmd_doc.php">Ir a la sección</a>
+          </div>
+        </div>
+      </div>
     </div>
-
   </div>
 </div>
