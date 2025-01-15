@@ -96,10 +96,10 @@ span img {
 	border: 2px solid rgba(168, 0, 39, 0.85);
 }
 #america {
-	display: block;
+	display: none;
 }
 #europe {
-	display: none;
+	display: block;
 }
 #africa {
 	display: none;
@@ -170,19 +170,23 @@ span img {
 .btn_next_section:hover {
 	background-color: #9a0a13;
 }
-.instructions {
+.instructions,
+.links {
 	color: #0062a3;
 	text-decoration: underline;
 }
 
-.instructions:hover {
+.instructions:hover,
+.links:hover {
 	color: #0081d6;
 	text-decoration: none;
 	cursor: pointer;
 }
-.instructions:active {
+.instructions:active,
+.links:active {
 	color: #0062a3;
 }
+
 /************************* FOOTER STYLES *************************/
 .footerLink {
 	color: white;

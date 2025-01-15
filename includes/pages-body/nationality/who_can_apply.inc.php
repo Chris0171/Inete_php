@@ -45,10 +45,13 @@
       </ul>
       <p>
         Las pautas, criterios y modelos de solicitud para tramitar el derecho de opción a la nacionalidad española en la
-        disposición adicional octava de la Ley 19/2022, de 19 de octubre, de Memoria Democrática, están fijadas en la
-        Instrucción del 25 de octubre de 2022 <span class="fw-bold instructions">[ver aquí]</span> y en la instrucción
-        del 5 de noviembre de 2024, que modifica a la anterior <span class="fw-bold instructions">[ver aquí]</span>, de
-        la <span class="fw-bold">Dirección General de Seguridad Jurídica y Fe Pública</span>.
+        disposición adicional octava de la Ley 20/2022 de 19 de octubre, de Memoria Democrática <a
+          href="https://www.boe.es/buscar/act.php?id=BOE-A-2022-17099" class="fw-bold links" target="_blank">[visitar
+          web]</a>, están fijadas en la Instrucción del 25 de octubre de 2022 <a
+          href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-17470" class="fw-bold links"
+          target="_blank">[visitar web]</a>y en la instrucción del 5 de noviembre de 2024, que modifica a la anterior <a
+          href="https://www.boe.es/boe/dias/2024/11/11/index.php?l=DA" class="fw-bold links">[visitar web]</a>, de la
+        <span class="fw-bold">Dirección General de Seguridad Jurídica y Fe Pública</span>.
       </p>
       <p>
         Las solicitudes se deben presentar a través de los Anexos correspondientes según el caso, de manera presencial
@@ -59,6 +62,9 @@
         Los modelos de solicitud se pueden obtener de manera telemática en la web del ministerio de justicia, del
         ministerio de asuntos exteriores o en el consulado al que pertenece según su lugar de residencia.
       </p>
+
+      <div class="separator"></div>
+
       <div class="row justify-content-center align-items-center text-center mt-4 mb-3">
         <div class="col-12 col-sm-8 col-md-6 m-auto mt-5 mt-md-2">
           <p class="fw-bold">Revisar documentación necesaria</p>
@@ -71,4 +77,4 @@
   </div>
 </div>
 
-<script src="../../assets/js/who_can_apply.js"></script>
+<!-- <script src="../../assets/js/who_can_apply.js"></script> -->

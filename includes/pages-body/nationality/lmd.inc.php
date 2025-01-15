@@ -70,9 +70,11 @@
           <p class="fw-bold">Ampliación del Plazo</p>
           <ul>
             <li>
-              La ley establece un plazo inicial de dos años desde su entrada en vigor (es decir, hasta octubre de 2024)
-              para que los interesados presenten su solicitud de nacionalidad. Este plazo podría ser prorrogado por el
-              Gobierno por un año adicional, si así se considera necesario.
+              La ley establece un plazo inicial de dos años desde su entrada en vigor hasta octubre de 2024 para que
+              los interesados presentaran su solicitud de nacionalidad.
+            </li>
+            <li>
+              Este plazo se ha prorrogado por el Gobierno a un año más, es decir, hasta octubre de 2025
             </li>
           </ul>
         </li>
@@ -81,36 +83,44 @@
       <!-- Impacto de la Ley en la Comunidad Internacional -->
       <h2>Impacto de la Ley en la Comunidad Internacional</h2>
       <p>
-        La Ley de Memoria Democrática ha generado un gran interés entre las comunidades de descendientes de españoles en
-        el extranjero, especialmente en países como:
+        La Ley de Memoria Democrática ha generado un gran interés en los descendientes de españoles en el extranjero,
+        especialmente en países como: Argentina, Cuba, Chile y Mexico.
       </p>
-      <ul>
-        <li>Argentina, México, y Chile, donde se asentaron miles de exiliados durante y después de la Guerra Civil.</li>
-        <li>Estados Unidos y Canadá, en el caso de descendientes de brigadistas internacionales.</li>
-      </ul>
       <p>
-        En particular, la ampliación de derechos a los nietos de exiliados y la eliminación de requisitos como la
-        renuncia a la nacionalidad previa han sido recibidas como avances significativos.
+        Esta ley ha permitido que descendientes de españoles en todo el mundo puedan solicitar la nacionalidad y la
+        eliminación de requisitos como la renuncia a la nacionalidad previa, han sido recibidas como avances
+        significativos.
       </p>
 
       <h3>Críticas y Desafíos</h3>
       <p>
-        Aunque la Ley de Memoria Democrática ha sido bien recibida por muchos sectores, también ha enfrentado críticas:
+        Ley de Memoria Democrática ha sido bien recibida por muchos sectores, pero también ha enfrentado críticas y
+        grandes desafíos:
       </p>
       <ul>
         <li>
-          Burocracia y saturación administrativa: Algunos consulados españoles en el extranjero han reportado un aumento
-          significativo en el número de solicitudes, lo que ha generado demoras.
+          <span class="fw-bold">Existe mucha Burocracia y saturación administrativa:</span> Algunos consulados españoles
+          en el extranjero como en Argentina y Cuba se han reportado aumentos significativos en el número de
+          solicitudes, lo que ha generado excesivas demoras.
         </li>
         <li>
-          Plazo limitado: Muchas organizaciones de descendientes han solicitado que el plazo de dos años sea ampliado de
-          forma permanente para garantizar que todos los interesados puedan presentar su solicitud.
-        </li>
-        <li>
-          Interpretación restrictiva: Existen preocupaciones sobre cómo se interpretarán ciertos requisitos,
-          especialmente en casos donde la documentación histórica es difícil de obtener debido al paso del tiempo.
+          <span class="fw-bold">Plazos y limitaciones:</span> Muchas organizaciones de descendientes solicitaron que se
+          ampliara el plazo de la ley un año más, para poder garantizar que todos los interesados puedan presentar su
+          solicitud ya que existe mucha documentación histórica de difícil obtención fundamentalmente en parroquias y
+          archivos diocesanos.
         </li>
       </ul>
+
+      <div class="separator"></div>
+
+      <div class="row justify-content-center align-items-center text-center mt-4 mb-3">
+        <div class="col-12 col-sm-8 col-md-6 m-auto mt-5 mt-md-2">
+          <p class="fw-bold">¿Quiénes pueden optar por la ley?</p>
+          <div class="btn_next_section">
+            <a href="who_can_apply.php">Ir a la sección</a>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </div>

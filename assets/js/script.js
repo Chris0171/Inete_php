@@ -19,7 +19,7 @@ for (let i = 0; i < countryBtn.length; i++) {
 			case 2:
 				europe.style.display = "none";
 				america.style.display = "none";
-				europe.style.display = "block";
+				africa.style.display = "block";
 				break;
 		}
 	});

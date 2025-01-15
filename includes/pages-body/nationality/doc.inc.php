@@ -39,18 +39,13 @@
         <li>
           En caso de presentarse por nieto de originario español, debe aportar la Certificación de nacimiento del padre
           o madre (línea española), y certificación de nacimiento del abuelo o abuela. En caso de no tener certificado
-          de
-          Nacimiento del registro civil, debe aportar el certificado de bautismo junto a la negativa de nacimiento del
-          registro civil.
+          de Nacimiento del registro civil, debe aportar el certificado de bautismo junto a la negativa de nacimiento
+          del registro civil.
         </li>
         <li>
           Documentación que acredite la condición de exiliado del padre, madre, abuelo o abuela según el caso.
         </li>
       </ul>
-      <p>
-        Además de los documentos que se relacionaron a continuación para cada uno de los supuestos, la Oficina Consular
-        podrá pedir datos o documentos adicionales cuando sean necesarios para valorar el expediente.
-      </p>
 
       <div class="separator"></div>
 
@@ -111,6 +106,17 @@
           aquel en el que se encuentra inscrito el nacimiento del padre o de la madre.
         </li>
       </ul>
+
+      <div class="separator"></div>
+
+      <div class="row justify-content-center align-items-center text-center mt-4 mb-3">
+        <div class="col-12 col-sm-8 col-md-6 m-auto mt-5 mt-md-2">
+          <p class="fw-bold">Certificaciones registrales</p>
+          <div class="btn_next_section">
+            <a href="request_certifications.php">Ir a la sección</a>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </div>
