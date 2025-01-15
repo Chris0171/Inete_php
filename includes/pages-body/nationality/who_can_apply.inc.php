@@ -46,13 +46,14 @@
       <p>
         Las pautas, criterios y modelos de solicitud para tramitar el derecho de opción a la nacionalidad española en la
         disposición adicional octava de la Ley 19/2022, de 19 de octubre, de Memoria Democrática, están fijadas en la
-        Instrucción del 25 de octubre de 2022, de la Dirección General de Seguridad Jurídica y Fe Publica.
+        Instrucción del 25 de octubre de 2022 <span class="fw-bold instructions">[ver aquí]</span> y en la instrucción
+        del 5 de noviembre de 2024, que modifica a la anterior <span class="fw-bold instructions">[ver aquí]</span>, de
+        la <span class="fw-bold">Dirección General de Seguridad Jurídica y Fe Pública</span>.
       </p>
       <p>
         Las solicitudes se deben presentar a través de los Anexos correspondientes según el caso, de manera presencial
-        en
-        el registro civil más cercano a su domicilio en España o fuera de España en los consulados que corresponda según
-        su lugar de residencia.
+        en el registro civil más cercano a su domicilio en España o fuera de España en los consulados que corresponda
+        según su lugar de residencia.
       </p>
       <p>
         Los modelos de solicitud se pueden obtener de manera telemática en la web del ministerio de justicia, del
@@ -69,3 +70,5 @@
     </div>
   </div>
 </div>
+
+<script src="../../assets/js/who_can_apply.js"></script>

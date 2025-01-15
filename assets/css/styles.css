@@ -170,7 +170,19 @@ span img {
 .btn_next_section:hover {
 	background-color: #9a0a13;
 }
+.instructions {
+	color: #0062a3;
+	text-decoration: underline;
+}
 
+.instructions:hover {
+	color: #0081d6;
+	text-decoration: none;
+	cursor: pointer;
+}
+.instructions:active {
+	color: #0062a3;
+}
 /************************* FOOTER STYLES *************************/
 .footerLink {
 	color: white;

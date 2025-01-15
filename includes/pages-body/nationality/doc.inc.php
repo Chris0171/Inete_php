@@ -107,10 +107,8 @@
         <li>
           Certificación literal de nacimiento española del padre o de la madre del solicitante mayor de edad, al haberse
           reconocido a su progenitor la nacionalidad española de origen de acuerdo a la Ley de Memoria Democrática de
-          2022
-          o la Ley de Memoria Histórica de 2007, cuando la solicitud sea presentada en un Registro Civil distinto a
-          aquel
-          en el que se encuentra inscrito el nacimiento del padre o de la madre.
+          2022 o la Ley de Memoria Histórica de 2007, cuando la solicitud sea presentada en un Registro Civil distinto a
+          aquel en el que se encuentra inscrito el nacimiento del padre o de la madre.
         </li>
       </ul>
     </div>

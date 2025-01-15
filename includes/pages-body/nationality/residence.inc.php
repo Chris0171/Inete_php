@@ -55,8 +55,10 @@
               <p><span class="fw-bold">Dos años:</span></p>
               <ul>
                 <li>
-                  Para los nacionales de países iberoamericanos, Portugal, Andorra, Filipinas, Guinea Ecuatorial y
-                  personas de origen sefardí.
+                  Para los nacionales de países iberoamericanos <a
+                    href="https://www.igae.pap.hacienda.gob.es/sitios/igae/es-ES/QuienesSomos/Presentacion/paisesiberoamericanos/Paginas/paisesiberoamericanos.aspx"
+                    target="_blank" class="fw-bold instructions">[ver aquí]</a>, Portugal, Andorra, Filipinas, Guinea
+                  Ecuatorial y personas de origen sefardí.
                 </li>
               </ul>
             </li>

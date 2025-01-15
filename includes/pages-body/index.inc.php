@@ -1,14 +1,12 @@
 <div class="pt-2 pe-0 ps-0 pb-4">
   <div class="row justify-content-end align-items-center m-0">
     <div class="col-12 col-md-9 text-container pe-5 ps-5 pt-4 pb-4">
-      <h1 class="text-center">BIENVENIDOS A INETE</h1>
+      <h1 class="text-center mb-5">BIENVENIDOS A INETE</h1>
       <h4>Tu guía de confianza en extranjería y nacionalidad española</h4>
       <p>
         En este sitio web, estamos para acompañarte en cada paso de tu camino hacia la residencia, la regularización o
-        la
-        obtención de la nacionalidad española. Nuestro objetivo es brindarte información clara, actualizada y
-        herramientas
-        prácticas para facilitar todos los trámites relacionados con extranjería.
+        la obtención de la nacionalidad española. Nuestro objetivo es brindarte información clara, actualizada y
+        herramientas prácticas para facilitar todos los trámites relacionados con extranjería.
       </p>
       <p>
         Ya sea que estés buscando información sobre permisos de residencia, renovaciones, reagrupación familiar o cómo
@@ -31,7 +29,7 @@
       <p class="fw-bold">¿Por qué deberías elegirnos?</p>
       <ul>
         <li>
-          Ofrecemos un contenido actualizado y fácil de entender.
+          Ofrecemos una información actualizada y fácil de entender.
         </li>
         <li>
           Guías paso a paso para tus trámites de extranjería.
