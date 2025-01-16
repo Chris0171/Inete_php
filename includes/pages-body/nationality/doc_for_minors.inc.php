@@ -73,6 +73,17 @@
           capacidad modificada judicialmente esté inscrita en alguno de estos centros.
         </li>
       </ol>
+
+      <div class="separator"></div>
+
+      <div class="row justify-content-center align-items-center text-center mt-4 mb-3">
+        <div class="col-12 col-sm-8 col-md-6 m-auto mt-5 mt-md-2">
+          <p class="fw-bold">Revisar documentación para casos específicos</p>
+          <div class="btn_next_section">
+            <a href="doc_for_specific_cases.php">Ir a la sección</a>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </div>

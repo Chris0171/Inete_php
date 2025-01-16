@@ -21,7 +21,7 @@
       <div class="separator"></div>
 
       <!-- Articulos clave sobre Nacionalidad -->
-      <h2>Artículos clave sobre Nacionalidad</h2>
+      <h2>Artículos claves sobre Nacionalidad</h2>
       <p>
         La Ley de Memoria Democrática establece disposiciones específicas para la adquisición de la nacionalidad
         española en su Disposición Adicional Octava y en otros apartados relevantes. A continuación, se detallan los

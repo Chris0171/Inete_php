@@ -17,7 +17,7 @@
       <div id="europe">
         <p>Como ciudadano español, puedes viajar a todos los países de Europa sin necesidad de visa. España forma parte
           de la Unión Europea (UE) y del Espacio Schengen, lo que permite la libre circulación de personas dentro de la
-          mayoría de los países europeos. Aquí te doy una lista de los países europeos a los que puedes viajar sin
+          mayoría de los países europeos. Aquí se muestra una lista de los países europeos a los que puedes viajar sin
           necesidad de visa y sin restricciones importantes:</p><br>
         <div class="hrDiv mb-5"></div>
         <ul>

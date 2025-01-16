@@ -122,6 +122,23 @@
           España.
         </li>
       </ul>
+
+      <div class="separator"></div>
+
+      <div class="row justify-content-center align-items-center text-center mt-4 mb-3">
+        <div class="col-12 col-sm-8 col-md-6 m-auto mt-5 mt-md-2">
+          <p class="fw-bold">Consultar Ley de Memoria Democrática</p>
+          <div class="btn_next_section">
+            <a href="lmd.php">Ir a la sección</a>
+          </div>
+        </div>
+        <div class="col-12 col-sm-8 col-md-6 m-auto mt-5 mt-md-2">
+          <p class="fw-bold">Países a viajar con pasaporte español</p>
+          <div class="btn_next_section">
+            <a href="contries.php">Ir a la sección</a>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </div>
