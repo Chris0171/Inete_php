@@ -117,7 +117,8 @@
         <div class="col-12 col-sm-8 col-md-6 m-auto mt-5 mt-md-2">
           <p class="fw-bold">¿Quiénes pueden optar por la ley?</p>
           <div class="btn_next_section">
-            <a href="who_can_apply.php">Ir a la sección</a>
+            <a href="who_can_apply.php"><span class="link-icon justify-content-center">Ir a la sección <img
+                  class="ms-3 arrow-icon2" src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"></span></a>
           </div>
         </div>
       </div>

@@ -23,29 +23,36 @@
             NACIONALIDAD
           </button>
           <ul class="dropdown-menu dropdown-menu-dark bgDropdown p-2">
-            <li><a class="dropdown-item text-warning" href="../nationality/residence.php">Nacionalidad española por
+            <li><a class="dropdown-item text-warning disabled" href="#">Nacionalidad española por
                 residencia</a>
             </li>
-            <li><a class="dropdown-item" href="../nationality/doc_for_adults.php"><span class="text-warning">-</span>
-                Documentación para mayores de edad</a>
+            <li><a class="dropdown-item link-icon" href="../nationality/residence.php"><img class="arrow-icon"
+                  src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"> Principales requisitos para la
+                solicitud</a>
             </li>
-            <li><a class="dropdown-item" href="../nationality/doc_for_minors.php"><span class="text-warning">-</span>
-                Documentación para menores de edad</a>
+            <li><a class="dropdown-item link-icon" href="../nationality/doc_for_adults.php"><img class="arrow-icon"
+                  src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"> Documentación para mayores de
+                edad</a>
             </li>
-            <li><a class="dropdown-item" href="../nationality/doc_for_specific_cases.php"><span
-                  class="text-warning">-</span> Documentación para casos específicos</a></li>
+            <li><a class="dropdown-item link-icon" href="../nationality/doc_for_minors.php"><img class="arrow-icon"
+                  src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"> Documentación para menores de
+                edad</a>
+            </li>
+            <li><a class="dropdown-item link-icon" href="../nationality/doc_for_specific_cases.php"><img
+                  class="arrow-icon" src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"> Documentación
+                para casos específicos</a></li>
             <hr class="text-warning border border-2">
-            <li><a class="dropdown-item text-warning" href="../nationality/lmd.php">Ley de memoria democrática(LMD)</a>
+            <li><a class="dropdown-item text-warning disabled" href="#">Ley de memoria democrática(LMD)</a>
             </li>
-            <li><a class="dropdown-item" href="../nationality/who_can_apply.php"><span class="text-warning">-</span>
-                ¿Quienes pueden optar?</a></li>
-            <li><a class="dropdown-item" href="../nationality/lmd_doc.php"><span class="text-warning">-</span>
-                Documentación a aportar</a></li>
-            <li><a class="dropdown-item" href="../nationality/request_certifications.php"><span
-                  class="text-warning">-</span> Solicitar certificaciones registrales</a></li>
-            <hr class="text-warning border border-2">
-            <li><a class="dropdown-item text-warning" href="../nationality/countries.php">Países a viajar con pasaporte
-                español</a>
+            <li><a class="dropdown-item link-icon" href="../nationality/lmd.php"><img class="arrow-icon"
+                  src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"> Aspectos principales</a></li>
+            <li><a class="dropdown-item link-icon" href="../nationality/who_can_apply.php"><img class="arrow-icon"
+                  src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"> ¿Quienes pueden optar?</a></li>
+            <li><a class="dropdown-item link-icon" href="../nationality/lmd_doc.php"><img class="arrow-icon"
+                  src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"> Documentación a aportar</a></li>
+            <li><a class="dropdown-item link-icon" href="../nationality/request_certifications.php"> <img
+                  class="arrow-icon" src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"> Solicitar
+                certificaciones registrales</a></li>
             </li>
           </ul>
         </div>

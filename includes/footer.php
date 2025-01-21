@@ -3,7 +3,6 @@
     <div class="col-12 col-sm-6 col-md-5 col-lg-4 m-auto">
       <p class="fw-bold subMenu text-warning">Sitio</p>
       <ul>
-        <li><a href="privacy-policy.php" class="fw-bold footerLink">Política de Privacidad</a></li>
         <li><a href="terms-of-use.php" class="fw-bold footerLink">Terminos de uso</a></li>
         <li><a href="cookies-policy.php" class="fw-bold footerLink">Cookies</a></li>
         <li><a href="faq.php" class="fw-bold footerLink">Preguntas frecuentes</a></li>
