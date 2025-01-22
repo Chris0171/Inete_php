@@ -128,8 +128,7 @@
       </ul>
 
       <p class="fw-bold">Si el estudiante hace la solicitud fuera de España, debe consultar la información que aparece
-        en
-        la página web oficial de la embajada o consulado de su lugar de residencia</p>
+        en la página web oficial de la embajada o consulado de su lugar de residencia</p>
 
       <div class="row justify-content-center align-items-center text-center mt-4 mb-3">
         <div class="col-12 col-sm-5 col-md-4 m-auto mt-2">

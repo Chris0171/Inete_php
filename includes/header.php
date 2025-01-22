@@ -23,36 +23,52 @@
             NACIONALIDAD
           </button>
           <ul class="dropdown-menu dropdown-menu-dark bgDropdown p-2">
-            <li><a class="dropdown-item text-warning disabled" href="#">Nacionalidad española por
+            <li>
+              <a class="dropdown-item text-warning disabled" href="#">Ley de memoria democrática (LMD)</a>
+            </li>
+            <li>
+              <a class="dropdown-item link-icon" href="../nationality/lmd.php"><img class="arrow-icon"
+                  src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"> Aspectos principales</a>
+            </li>
+            <li>
+              <a class="dropdown-item link-icon" href="../nationality/who_can_apply.php"><img class="arrow-icon"
+                  src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"> ¿Quienes pueden optar?</a>
+            </li>
+            <li>
+              <a class="dropdown-item link-icon" href="../nationality/lmd_doc.php"><img class="arrow-icon"
+                  src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"> Documentación a aportar</a>
+            </li>
+            <li>
+              <a class="dropdown-item link-icon" href="../nationality/request_certifications.php"> <img
+                  class="arrow-icon" src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"> Solicitar
+                certificaciones registrales</a>
+            </li>
+
+            <hr class="text-warning border border-2">
+
+            <li>
+              <a class="dropdown-item text-warning disabled" href="#">Nacionalidad española por
                 residencia</a>
             </li>
-            <li><a class="dropdown-item link-icon" href="../nationality/residence.php"><img class="arrow-icon"
+            <li>
+              <a class="dropdown-item link-icon" href="../nationality/residence.php"><img class="arrow-icon"
                   src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"> Principales requisitos para la
                 solicitud</a>
             </li>
-            <li><a class="dropdown-item link-icon" href="../nationality/doc_for_adults.php"><img class="arrow-icon"
+            <li>
+              <a class="dropdown-item link-icon" href="../nationality/doc_for_adults.php"><img class="arrow-icon"
                   src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"> Documentación para mayores de
                 edad</a>
             </li>
-            <li><a class="dropdown-item link-icon" href="../nationality/doc_for_minors.php"><img class="arrow-icon"
+            <li>
+              <a class="dropdown-item link-icon" href="../nationality/doc_for_minors.php"><img class="arrow-icon"
                   src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"> Documentación para menores de
                 edad</a>
             </li>
-            <li><a class="dropdown-item link-icon" href="../nationality/doc_for_specific_cases.php"><img
+            <li>
+              <a class="dropdown-item link-icon" href="../nationality/doc_for_specific_cases.php"><img
                   class="arrow-icon" src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"> Documentación
-                para casos específicos</a></li>
-            <hr class="text-warning border border-2">
-            <li><a class="dropdown-item text-warning disabled" href="#">Ley de memoria democrática(LMD)</a>
-            </li>
-            <li><a class="dropdown-item link-icon" href="../nationality/lmd.php"><img class="arrow-icon"
-                  src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"> Aspectos principales</a></li>
-            <li><a class="dropdown-item link-icon" href="../nationality/who_can_apply.php"><img class="arrow-icon"
-                  src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"> ¿Quienes pueden optar?</a></li>
-            <li><a class="dropdown-item link-icon" href="../nationality/lmd_doc.php"><img class="arrow-icon"
-                  src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"> Documentación a aportar</a></li>
-            <li><a class="dropdown-item link-icon" href="../nationality/request_certifications.php"> <img
-                  class="arrow-icon" src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"> Solicitar
-                certificaciones registrales</a></li>
+                para casos específicos</a>
             </li>
           </ul>
         </div>
@@ -62,17 +78,59 @@
             aria-expanded="false">
             AUTORIZACIONES
           </button>
-          <ul class="dropdown-menu dropdown-menu-dark bgDropdown p-2">
-            <li><a class="dropdown-item text-warning" href="../authorizations/stay_for_studies.php">Autorización de
-                estancia por estudios</a></li>
-            <li><a class="dropdown-item" href="../authorizations/doc_for_authorization.php"><span
-                  class="text-warning">-</span> Documentación</a>
+          <ul class="dropdown-menu dropdown-menu-dark dropdown-menu-end bgDropdown p-2">
+            <li>
+              <a class="dropdown-item text-warning disabled" href="#">Autorización de
+                estancia por estudios</a>
             </li>
+            <li>
+              <a class="dropdown-item link-icon" href="../authorizations/regulations.php"> <img class="arrow-icon"
+                  src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"> Tipo de autorización y normativa
+              </a>
+            </li>
+            <li>
+              <a class="dropdown-item link-icon dropdown-left" href="../authorizations/requirements_from.php"> <img
+                  class="arrow-icon" src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"> Requisitos y
+                documentación de solicitud desde España</a>
+            </li>
+            <li>
+              <a class="dropdown-item link-icon dropdown-left" href="../authorizations/requirements_outside.php"> <img
+                  class="arrow-icon" src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"> Requisitos y
+                documentación de solicitud fuera de España</a>
+            </li>
+
             <hr class="text-warning border border-2">
-            <li><a class="dropdown-item text-warning" href="../authorizations/visa_application.php">Solicitud de
-                visados</a></li>
-            <li><a class="dropdown-item" href="../authorizations/doc_for_application.php"><span
-                  class="text-warning">-</span> Documentación</a>
+
+            <li>
+              <a class="dropdown-item text-warning disabled" href="#">Autorización de trabajo por cuenta ajena</a>
+            </li>
+            <li>
+              <a class="dropdown-item link-icon dropdown-left" href="../authorizations/employment_requirements.php">
+                <img class="arrow-icon" src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"> Requisitos
+                para la solicitud</a>
+            </li>
+            <li>
+              <a class="dropdown-item link-icon dropdown-left" href="../authorizations/e_r_doc.php">
+                <img class="arrow-icon" src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"> Documentación
+                exigible</a>
+            </li>
+
+            <hr class="text-warning border border-2">
+
+            <li>
+              <a class="dropdown-item text-warning disabled" href="#">Autorización de trabajo por cuenta propia</a>
+            </li>
+            <li>
+              <a class="dropdown-item link-icon dropdown-left"
+                href="../authorizations/self_employment_requirements.php">
+                <img class="arrow-icon" src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"> Requisitos
+                para la solicitud</a>
+            </li>
+            <li>
+              <a class="dropdown-item link-icon dropdown-left" href="../authorizations/s_e_r_doc.php">
+                <img class="arrow-icon" src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"> Documentación
+                exigible</a>
+            </li>
           </ul>
         </div>
         <a class="nav-link fw-bold" id="about-us" href="../nationality/countries.php">PAÍSES</a>
