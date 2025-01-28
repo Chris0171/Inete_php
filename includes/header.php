@@ -24,7 +24,7 @@
           </button>
           <ul class="dropdown-menu dropdown-menu-dark bgDropdown p-2">
             <li>
-              <a class="dropdown-item text-warning disabled" href="#">Ley de memoria democrática (LMD)</a>
+              <a class="dropdown-item text-warning disabled" href="#">Ley de Memoria Democrática (LMD)</a>
             </li>
             <li>
               <a class="dropdown-item link-icon" href="../nationality/lmd.php"><img class="arrow-icon"
@@ -98,6 +98,16 @@
                   class="arrow-icon" src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"> Requisitos y
                 documentación de solicitud fuera de España</a>
             </li>
+            <li>
+              <a class="dropdown-item link-icon dropdown-left" href="../authorizations/employment_permission.php"> <img
+                  class="arrow-icon" src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow">Permiso para
+                trabajar por cuenta ajena</a>
+            </li>
+            <li>
+              <a class="dropdown-item link-icon dropdown-left" href="../authorizations/self_employment_permission.php">
+                <img class="arrow-icon" src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow">Permiso para
+                trabajar por cuenta propia</a>
+            </li>
 
             <hr class="text-warning border border-2">
 
@@ -105,14 +115,13 @@
               <a class="dropdown-item text-warning disabled" href="#">Autorización de trabajo por cuenta ajena</a>
             </li>
             <li>
-              <a class="dropdown-item link-icon dropdown-left" href="../authorizations/employment_requirements.php">
-                <img class="arrow-icon" src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"> Requisitos
-                para la solicitud</a>
+              <a class="dropdown-item link-icon dropdown-left" href="../authorizations/requirements_ca.php">
+                <img class="arrow-icon" src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"> Requisitos</a>
             </li>
             <li>
-              <a class="dropdown-item link-icon dropdown-left" href="../authorizations/e_r_doc.php">
+              <a class="dropdown-item link-icon dropdown-left" href="../authorizations/doc_and_proce.php">
                 <img class="arrow-icon" src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"> Documentación
-                exigible</a>
+                y procedimiento</a>
             </li>
 
             <hr class="text-warning border border-2">
@@ -121,15 +130,14 @@
               <a class="dropdown-item text-warning disabled" href="#">Autorización de trabajo por cuenta propia</a>
             </li>
             <li>
-              <a class="dropdown-item link-icon dropdown-left"
-                href="../authorizations/self_employment_requirements.php">
-                <img class="arrow-icon" src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"> Requisitos
-                para la solicitud</a>
+              <a class="dropdown-item link-icon dropdown-left" href="../authorizations/requirements_cp.php">
+                <img class="arrow-icon" src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"> Normativa y
+                requisitos</a>
             </li>
             <li>
-              <a class="dropdown-item link-icon dropdown-left" href="../authorizations/s_e_r_doc.php">
+              <a class="dropdown-item link-icon dropdown-left" href="../authorizations/doc_and_proce_cp.php">
                 <img class="arrow-icon" src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"> Documentación
-                exigible</a>
+                y procedimiento</a>
             </li>
           </ul>
         </div>

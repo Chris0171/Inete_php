@@ -2,11 +2,11 @@
   <div class="row justify-content-end align-items-center m-0">
     <div class="col-12 col-md-9 text-container pe-5 ps-5 pt-4 pb-4">
       <!-- Preguntas frecuentas sobre nacionalidad española -->
-      <h1 class="text-center">Preguntas frecuentes</h1>
+      <h1 class="text-center">PREGUNTAS FRECUENTES</h1>
 
       <br>
 
-      <h2>Sobre nacionalidad española por la LMD</h2>
+      <h2>Sobre nacionalidad española por la LMD:</h2>
 
       <div class="accordion" id="accordionFlushExample">
         <!--  ¿Cuáles son los requisitos para obtener la nacionalidad española por la LMD? -->
@@ -182,7 +182,7 @@
 
       <div class="separator"></div>
 
-      <h2>Sobre nacionalidad por residencia</h2>
+      <h2>Sobre nacionalidad por residencia:</h2>
 
       <div class="accordion" id="accordionFlushExample2">
         <!--  ¿Cuáles son los requisitos para los ciudadanos de países iberoamericanos? -->
@@ -314,6 +314,24 @@
       </div>
 
       <div class="separator"></div>
+
+      <div class="row justify-content-center align-items-center text-center mt-4 mb-3">
+        <div class="col-12 col-sm-8 col-md-6 m-auto mt-5 mt-md-2">
+          <p class="fw-bold">Consultar Ley de Memoria Democrática</p>
+          <div class="btn_next_section">
+            <a href="../nationality/lmd.php"><span class="link-icon justify-content-center">Ir a la sección <img
+                  class="ms-3 arrow-icon2" src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"></span></a>
+          </div>
+        </div>
+        <div class="col-12 col-sm-8 col-md-6 m-auto mt-5 mt-md-2">
+          <p class="fw-bold">Autorización de Estancia por Estudios</p>
+          <div class="btn_next_section">
+            <a href="../authorizations/regulations.php"><span class="link-icon justify-content-center">Ir a la
+                sección <img class="ms-3 arrow-icon2" src="../../assets/icons/arrow-right-circle-fill.svg"
+                  alt="arrow"></span></a>
+          </div>
+        </div>
+      </div>
 
     </div>
   </div>
