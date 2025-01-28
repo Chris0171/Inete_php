@@ -244,6 +244,17 @@
 
       <div class="separator"></div>
 
+      <!-- Botones de navegación -->
+      <div class="row justify-content-center align-items-center text-center mt-4 mb-3">
+        <div class="col-12 col-sm-8 col-md-6 m-auto mt-md-2">
+          <p class="fw-bold">Autorización de residencia de trabajo por cuenta propia</p>
+          <div class="btn_next_section">
+            <a href="requirements_cp.php"><span class="link-icon justify-content-center">Ir a la sección <img
+                  class="ms-3 arrow-icon2" src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"></span></a>
+          </div>
+        </div>
+      </div>
+
     </div>
   </div>
 </div>

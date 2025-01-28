@@ -142,7 +142,7 @@
           </ul>
         </div>
         <a class="nav-link fw-bold" id="about-us" href="../nationality/countries.php">PAÍSES</a>
-        <div class="border border-start border-2 border-warning m-1 ms-3 me-3"></div>
+        <!-- <div class="border border-start border-2 border-warning m-1 ms-3 me-3"></div> -->
         <!-- <a class="nav-link fw-bold" id="about-us" href="about-us.php">SOBRE NOSOTROS</a> -->
       </nav>
     </div>

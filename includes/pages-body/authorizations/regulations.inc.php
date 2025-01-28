@@ -37,7 +37,17 @@
 
       <div class="separator"></div>
 
-      <!-- TODO: Colocar botones de navegación -->
+      <!-- Botones de navegación -->
+      <div class="row justify-content-center align-items-center text-center mt-4 mb-3">
+        <div class="col-12 col-sm-8 col-md-6 m-auto mt-md-2">
+          <p class="fw-bold">Requisitos para la solicitud desde España</p>
+          <div class="btn_next_section">
+            <a href="requirements_from.php"><span class="link-icon justify-content-center">Ir a la sección <img
+                  class="ms-3 arrow-icon2" src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"></span></a>
+          </div>
+        </div>
+      </div>
+
     </div>
   </div>
 </div>

@@ -6,6 +6,7 @@
         <li><a href="../../others/terms_of_use.php" class="fw-bold footerLink">Términos de Uso</a></li>
         <li><a href="../../others/cookies.php" class="fw-bold footerLink">Política de Cookies</a></li>
         <li><a href="../../others/fq.php" class="fw-bold footerLink">Preguntas Frecuentes</a></li>
+        <li><a href="mailto:inete.consultas@gmail.com" class="fw-bold footerLink">Email de Contacto</a></li>
       </ul>
     </div>
     <div class="col-12 col-sm-6 col-md-5 col-lg-4 m-auto">

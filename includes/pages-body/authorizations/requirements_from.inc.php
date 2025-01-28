@@ -2,11 +2,11 @@
   <div class="row justify-content-end align-items-center m-0">
     <div class="col-12 col-md-9 text-container pe-5 ps-5 pt-4 pb-4">
       <!-- Autorización de estancia por estudios -->
-      <h1>Estancia por estudios: Solicitud desde de españa</h1>
+      <h1>Estancia por estudios: Solicitud desde España</h1>
 
 
       <!-- Requisitos para la solicitud de estancia por estudios desde España -->
-      <h2 class="mt-4">Requisitos de solicitud desde españa</h2>
+      <h2 class="mt-4">Requisitos de solicitud desde España</h2>
       <ul>
         <li>
           <span class="fw-bold">No ser ciudadano de un Estado de la Unión Europea</span>, del Espacio Económico Europeo
@@ -161,13 +161,25 @@
           </div>
         </div>
         <div class="col-12 col-sm-4 col-md-3 m-auto mt-5 mt-md-2">
-          <p class="fw-bold">Info general de extrangería</p>
+          <p class="fw-bold">Info general de extranjería</p>
           <div class="btn_links"><a
               href="https://mpt.gob.es/portal/delegaciones_gobierno/extranjeria/extranjeria_ddgg">Visitar web</a></div>
         </div>
       </div>
 
       <div class="separator"></div>
+
+      <!-- Botones de navegación -->
+      <div class="row justify-content-center align-items-center text-center mt-4 mb-3">
+        <div class="col-12 col-sm-8 col-md-6 m-auto mt-md-2">
+          <p class="fw-bold">Requisitos para la solicitud fuera de España</p>
+          <div class="btn_next_section">
+            <a href="requirements_outside.php"><span class="link-icon justify-content-center">Ir a la sección <img
+                  class="ms-3 arrow-icon2" src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"></span></a>
+          </div>
+        </div>
+      </div>
+
     </div>
   </div>
 </div>

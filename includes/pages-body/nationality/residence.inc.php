@@ -13,9 +13,9 @@
       <ol>
         <li>
           <p>
-            Residir en España de forma legal: Se debe tener una autorización de residencia vigente. La visa de
-            estudiantes
-            es un permiso de residencia que no cuenta para la nacionalidad española.
+            Residir en España de forma legal: Se debe tener una autorización de residencia vigente. La <span
+              class="fw-bold">autorización de estancia por estudios</span> es un permiso de residencia que no cuenta
+            para la nacionalidad española.
           </p>
         </li>
         <li>

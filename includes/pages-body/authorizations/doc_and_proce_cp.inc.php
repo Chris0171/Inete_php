@@ -65,7 +65,7 @@
         </li>
       </ul>
 
-      <p class="fw-danger">
+      <p class="fw-bold text-danger">
         Muy importante:
       </p>
       <p>
@@ -188,6 +188,22 @@
 
       <div class="separator"></div>
 
+      <div class="row justify-content-center align-items-center text-center mt-4 mb-3">
+        <div class="col-12 col-sm-8 col-md-6 m-auto mt-md-2">
+          <p class="fw-bold">Obtener la nacionalidad por residencia</p>
+          <div class="btn_next_section">
+            <a href="nationality/residence.php"><span class="link-icon justify-content-center">Ir a la sección <img
+                  class="ms-3 arrow-icon2" src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"></span></a>
+          </div>
+        </div>
+        <div class="col-12 col-sm-8 col-md-6 m-auto mt-md-2">
+          <p class="fw-bold">Autorización de estancia por estudios</p>
+          <div class="btn_next_section">
+            <a href="authorizations/regulations.php"><span class="link-icon justify-content-center">Ir a la sección <img
+                  class="ms-3 arrow-icon2" src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"></span></a>
+          </div>
+        </div>
+      </div>
+
     </div>
   </div>
-</div>

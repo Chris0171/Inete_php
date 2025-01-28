@@ -146,6 +146,32 @@ span img {
 	background-color: rgb(168, 33, 67);
 	border-radius: 8px;
 }
+.text-c {
+	text-decoration: none;
+	color: #0062a3;
+}
+.text-c:hover {
+	color: #0099ff;
+}
+
+.text-h {
+	font-size: 22px;
+}
+
+.sub-text {
+	font-weight: bolder;
+	text-decoration: underline;
+	text-underline-offset: 4px;
+}
+.sub-text-1 {
+	color: #006d28;
+}
+.sub-text-2 {
+	color: #9d000a;
+}
+.sub-text-3 {
+	color: #dba400;
+}
 
 /************************* LMD DOC PAGE STYLES *************************/
 .text-underline {
