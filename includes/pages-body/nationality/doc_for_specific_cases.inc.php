@@ -136,7 +136,7 @@
         <div class="col-12 col-sm-8 col-md-6 m-auto mt-5 mt-md-2">
           <p class="fw-bold">Países a viajar con pasaporte español</p>
           <div class="btn_next_section">
-            <a href="contries.php"><span class="link-icon justify-content-center">Ir a la sección <img
+            <a href="countries.php"><span class="link-icon justify-content-center">Ir a la sección <img
                   class="ms-3 arrow-icon2" src="../../assets/icons/arrow-right-circle-fill.svg" alt="arrow"></span></a>
           </div>
         </div>

@@ -272,6 +272,9 @@ span img {
 	font-weight: bold;
 	font-size: 18px;
 }
+.no-movil-ad {
+	display: none;
+}
 
 /************************* Media Queries *************************/
 @media screen and (max-width: 580px) {
@@ -284,5 +287,11 @@ span img {
 	.accordion-st h2 button {
 		font-weight: bold;
 		font-size: 15px;
+	}
+	.movil-ad {
+		display: none;
+	}
+	.no-movil-ad {
+		display: flex;
 	}
 }
