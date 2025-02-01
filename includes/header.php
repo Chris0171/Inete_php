@@ -152,7 +152,7 @@
 <?php
 if($isAlert == true){
   ?>
-<div class="m-2  text-center">
+<div class="m-2 mt-3 text-center">
   <div class="alert alert-warning d-inline-block pe-4 ps-4" role="alert">
     <span class="fw-bold">Alerta de una nueva actuaclización en el contenido de la web. Consultar información <a
         href="../others/update_alert.php">aquí</a>.</span>

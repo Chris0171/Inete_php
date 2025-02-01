@@ -1,6 +1,6 @@
 <div class="pt-2 pe-0 ps-0 pb-4">
   <div class="row justify-content-end align-items-center m-0">
-    <div class="col-12 col-md-3 pe-5 ps-5 pt-4 pb-4">
+    <div class="col-12 col-md-3 pe-5 ps-5 pb-4">
       <div class="movil-ad">
         <script type="text/javascript">
         atOptions = {
@@ -127,7 +127,7 @@
         estos países.
       </p>
 
-      <div class="separator"></div>
+      <!-- <div class="separator"></div>
 
       <p class="text-h sub-text sub-text-3">Aviso:</p>
       <p>
@@ -136,7 +136,7 @@
         contenidos de esta página tan pronto entre en vigor la nueva ley de extranjería y se publiquen oficialmente los
         detalles. Te recomendamos visitar la web y mantenerte actualizado de cualquier cambio en los procedimientos de
         nacionalidad y extranjería.
-      </p>
+      </p> -->
 
       <div class="separator"></div>
 
@@ -156,9 +156,9 @@
         </li>
       </ul>
     </div>
-    <div class="col-12 col-md-3 pe-5 ps-5 pt-4 pb-4">
+    <div class="col-12 ps-5 pt-4 pb-4 align-items-center">
       <!-- Ad 3 -->
-      <div>
+      <div class="no-movil-ad">
         <script type="text/javascript">
         atOptions = {
           'key': '177e86d21e4eb1c46ae59903112cc5e5',
