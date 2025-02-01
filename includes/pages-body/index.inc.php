@@ -2,11 +2,13 @@
   <div class="row justify-content-end m-0">
     <div class="col-12 col-md-3 pe-3 ps-3 pb-4">
       <div class="movil-ad text-black fw-bold border rounded bg-light bg-opacity-75">
+        <div class="mt-4 mb-5">
+          <h2 class="text-center">ANUNCIOS</h2>
+        </div>
         <script async="async" data-cfasync="false"
           src="//pl25742019.profitablecpmrate.com/fc1a754eb38ec053b2fbddb3de51c40a/invoke.js"></script>
         <div id="container-fc1a754eb38ec053b2fbddb3de51c40a"></div>
       </div>
-      <!-- Ad 2 -->
 
       <!-- Ad 3 -->
       <div class="no-movil-ad">
