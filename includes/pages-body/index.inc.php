@@ -1,33 +1,13 @@
 <div class="pt-2 pe-0 ps-0 pb-4">
-  <div class="row justify-content-end align-items-center m-0">
-    <div class="col-12 col-md-3 pe-5 ps-5 pb-4">
-      <div class="movil-ad">
-        <script type="text/javascript">
-        atOptions = {
-          'key': '944db2f3f2f107565184b8895cf61ced',
-          'format': 'iframe',
-          'height': 600,
-          'width': 160,
-          'params': {}
-        };
-        </script>
-        <script type="text/javascript" src="//www.highperformanceformat.com/944db2f3f2f107565184b8895cf61ced/invoke.js">
-        </script>
+  <div class="row justify-content-end m-0">
+    <div class="col-12 col-md-3 pe-3 ps-3 pb-4">
+      <div class="movil-ad text-black fw-bold border rounded bg-light bg-opacity-75">
+        <script async="async" data-cfasync="false"
+          src="//pl25742019.profitablecpmrate.com/fc1a754eb38ec053b2fbddb3de51c40a/invoke.js"></script>
+        <div id="container-fc1a754eb38ec053b2fbddb3de51c40a"></div>
       </div>
       <!-- Ad 2 -->
-      <div class="movil-ad">
-        <script type="text/javascript">
-        atOptions = {
-          'key': '944db2f3f2f107565184b8895cf61ced',
-          'format': 'iframe',
-          'height': 600,
-          'width': 160,
-          'params': {}
-        };
-        </script>
-        <script type="text/javascript" src="//www.highperformanceformat.com/944db2f3f2f107565184b8895cf61ced/invoke.js">
-        </script>
-      </div>
+
       <!-- Ad 3 -->
       <div class="no-movil-ad">
         <script type="text/javascript">
