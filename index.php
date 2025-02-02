@@ -36,7 +36,7 @@ include('./includes/header.php');
 <!--::::::::::::::: Body page here :::::::::::::::-->
 <div class="container-fluid p-0 m-0 mt-3">
   <?php
-  include('./includes/pages-body/index.inc.php');
+  include('./includes/pages-body/others/index.inc.php');
   ?>
 </div>
 
