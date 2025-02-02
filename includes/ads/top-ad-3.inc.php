@@ -1,8 +1,8 @@
 <div
-  class="row justify-content-center align-items-center m-0 p-0 no-movil-ad text-black fw-bold border rounded bg-light bg-opacity-75">
+  class="row justify-content-center align-items-center m-0 p-0 text-black fw-bold border rounded bg-light bg-opacity-75 to-movil-ad">
   <div class="col-12">
-    <div class="mt-2 mb-2">
-      <h2 class="text-center">ANUNCIOS</h2>
+    <div class="mt-2 mb-2 text-center">
+      <h2>ANUNCIOS</h2>
       <p class="text-danger fw-bold">Desplazar hacia abajo para ver contenido</p>
     </div>
   </div>
