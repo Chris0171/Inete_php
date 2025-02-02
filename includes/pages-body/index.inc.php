@@ -9,21 +9,6 @@
           src="//pl25742019.profitablecpmrate.com/fc1a754eb38ec053b2fbddb3de51c40a/invoke.js"></script>
         <div id="container-fc1a754eb38ec053b2fbddb3de51c40a"></div>
       </div>
-
-      <!-- Ad 3 -->
-      <div class="no-movil-ad">
-        <script type="text/javascript">
-        atOptions = {
-          'key': '177e86d21e4eb1c46ae59903112cc5e5',
-          'format': 'iframe',
-          'height': 250,
-          'width': 300,
-          'params': {}
-        };
-        </script>
-        <script type="text/javascript" src="//www.highperformanceformat.com/177e86d21e4eb1c46ae59903112cc5e5/invoke.js">
-        </script>
-      </div>
     </div>
     <div class="col-12 col-md-9 text-container pe-5 ps-5 pt-4 pb-4">
       <h1 class="text-center mb-5">BIENVENIDOS A INETE</h1>
@@ -109,17 +94,6 @@
         estos países.
       </p>
 
-      <!-- <div class="separator"></div>
-
-      <p class="text-h sub-text sub-text-3">Aviso:</p>
-      <p>
-        Esta información se basa en la ley de extranjería vigente hasta esta fecha <span class="fw-bold">(1 de febrero
-          de 2025)</span>, en los próximos meses se esperan modificaciones en la ley, estaremos actualizando los
-        contenidos de esta página tan pronto entre en vigor la nueva ley de extranjería y se publiquen oficialmente los
-        detalles. Te recomendamos visitar la web y mantenerte actualizado de cualquier cambio en los procedimientos de
-        nacionalidad y extranjería.
-      </p> -->
-
       <div class="separator"></div>
 
       <p class="text-h sub-text">¿Por qué deberías elegirnos?</p>
@@ -137,22 +111,6 @@
           Acceso a páginas y documentos necesarios para la realización de dichos trámites.
         </li>
       </ul>
-    </div>
-    <div class="col-12 ps-5 pt-4 pb-4 align-items-center">
-      <!-- Ad 3 -->
-      <div class="no-movil-ad">
-        <script type="text/javascript">
-        atOptions = {
-          'key': '177e86d21e4eb1c46ae59903112cc5e5',
-          'format': 'iframe',
-          'height': 250,
-          'width': 300,
-          'params': {}
-        };
-        </script>
-        <script type="text/javascript" src="//www.highperformanceformat.com/177e86d21e4eb1c46ae59903112cc5e5/invoke.js">
-        </script>
-      </div>
     </div>
   </div>
 </div>
