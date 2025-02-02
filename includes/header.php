@@ -162,3 +162,11 @@ if($isAlert == true){
 <?php
 }
 ?>
+
+<!-- Ads include -->
+
+<?php 
+
+include("./ads/top-ad-3.inc.php");
+
+?>
