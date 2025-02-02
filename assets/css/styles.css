@@ -293,7 +293,7 @@ span img {
 	.movil-ad {
 		display: none;
 	}
-	.no-movil-ad {
+	.to-movil-ad {
 		display: block;
 		margin-left: 30px;
 	}
