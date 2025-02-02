@@ -1,6 +1,6 @@
 <div class="pt-2 pe-0 ps-0 pb-4">
   <div class="row justify-content-end m-0">
-    <div class="col-12 col-md-3 pe-3 ps-3 pb-4">
+    <!-- <div class="col-12 col-md-3 pe-3 ps-3 pb-4">
       <div class="movil-ad text-black fw-bold border rounded bg-light bg-opacity-75">
         <div class="mt-4 mb-5">
           <h2 class="text-center">ANUNCIOS</h2>
@@ -9,7 +9,7 @@
           src="//pl25742019.profitablecpmrate.com/fc1a754eb38ec053b2fbddb3de51c40a/invoke.js"></script>
         <div id="container-fc1a754eb38ec053b2fbddb3de51c40a"></div>
       </div>
-    </div>
+    </div> -->
     <div class="col-12 col-md-9 text-container pe-5 ps-5 pt-4 pb-4">
       <h1 class="text-center mb-5">BIENVENIDOS A INETE</h1>
       <h4>Tu guía de confianza en extranjería y nacionalidad española</h4>

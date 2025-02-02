@@ -272,7 +272,7 @@ span img {
 	font-weight: bold;
 	font-size: 18px;
 }
-.no-movil-ad {
+.to-movil-ad {
 	display: none;
 }
 
@@ -294,7 +294,6 @@ span img {
 		display: none;
 	}
 	.to-movil-ad {
-		display: block;
-		margin-left: 30px;
+		display: flex;
 	}
 }
