@@ -85,6 +85,12 @@
 
       <div class="separator"></div>
 
+      <?php 
+      include("includes/ads/section-1.inc.php");
+      ?>
+
+      <div class="separator"></div>
+
       <p class="text-h sub-text text-danger">Importante:</p>
       <p>La obtención de la nacionalidad española permite a la persona no solo vivir en territorio español, sino que
         podrán viajar por todos los países del espacio Schengen sin control fronterizo, como son: Dinamarca, Eslovenia,
