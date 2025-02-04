@@ -154,8 +154,8 @@ if($isAlert == true){
   ?>
 <div class="m-2 mt-3 text-center">
   <div class="alert alert-warning d-inline-block pe-4 ps-4" role="alert">
-    <span class="fw-bold">Alerta de una nueva actualización en el contenido de la web. Consultar información <a
-        href="../others/update_alert.php">aquí</a>.</span>
+    <span class="fw-bold">Alerta: Resumen de nuevos cambios en la ley de extranjería que será vigente a partir de <span
+        class="fw-bold">20 de mayo</span>. Consultar <a href="../others/update_alert.php">aquí</a>.</span>
   </div>
 </div>
 
