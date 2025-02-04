@@ -4,6 +4,7 @@
 
 <?php 
 $isAlert = true;
+$adPath1 = "../includes/ads/section-1.inc.php";
 ?>
 
 <head>
