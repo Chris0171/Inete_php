@@ -28,6 +28,13 @@
           <div class="btn_links"><a href="https://www.e-registros.es/registros-civiles-de-espana">Visitar web</a></div>
         </div>
       </div>
+
+      <div class="separator"></div>
+
+      <?php 
+      include($adPath1);
+      ?>
+
       <div class="separator"></div>
 
       <!-- ¿Qué quiere decir originariamente español? -->
@@ -56,6 +63,12 @@
         Los genealogistas disponen de mucha información, habilidad de búsqueda y acceso a las Diócesis y parroquias y
         por lo general no cobran el servicio si no encuentran el bautismo.
       </p>
+
+      <div class="separator"></div>
+
+      <?php 
+      include($adPath1);
+      ?>
 
       <div class="separator"></div>
 

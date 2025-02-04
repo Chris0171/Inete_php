@@ -87,6 +87,12 @@
 
       <div class="separator"></div>
 
+      <?php 
+      include($adPath1);
+      ?>
+
+      <div class="separator"></div>
+
       <!-- ¿Cómo se realiza el Procedimiento?: -->
       <h2 class="mt-4">¿Cómo se realiza el Procedimiento?</h2>
       <ul>
@@ -188,6 +194,12 @@
 
       <div class="separator"></div>
 
+      <?php 
+      include($adPath1);
+      ?>
+
+      <div class="separator"></div>
+
       <div class="row justify-content-center align-items-center text-center mt-4 mb-3">
         <div class="col-12 col-sm-8 col-md-6 m-auto mt-md-2">
           <p class="fw-bold">Obtener la nacionalidad por residencia</p>
@@ -204,6 +216,5 @@
           </div>
         </div>
       </div>
-
     </div>
   </div>

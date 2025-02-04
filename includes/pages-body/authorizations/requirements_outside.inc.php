@@ -65,6 +65,12 @@
 
       <div class="separator"></div>
 
+      <?php 
+      include($adPath1);
+      ?>
+
+      <div class="separator"></div>
+
       <!-- Documentación que se debe aportar a la tramitación -->
       <h2>Documentación que se debe aportar a la tramitación</h2>
       <ul>
@@ -146,6 +152,12 @@
 
       <div class="separator"></div>
 
+      <?php 
+      include($adPath1);
+      ?>
+
+      <div class="separator"></div>
+
       <!-- Documentación necesaria para los familiares que acompañan al estudiante -->
       <h2>Documentación necesaria para los familiares que acompañan al estudiante:</h2>
 
@@ -212,7 +224,6 @@
           </div>
         </div>
       </div>
-
     </div>
   </div>
 </div>

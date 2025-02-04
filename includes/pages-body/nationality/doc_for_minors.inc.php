@@ -34,6 +34,13 @@
           suficiente grado de integración, obligatorio en el caso de niños en edad escolar.
         </li>
       </ol>
+
+      <div class="separator"></div>
+
+      <?php 
+      include($adPath1);
+      ?>
+
       <div class="separator"></div>
 
       <!-- Documentacion para mayores de 14 años, pero menores de 18 años. -->
@@ -73,6 +80,12 @@
           capacidad modificada judicialmente esté inscrita en alguno de estos centros.
         </li>
       </ol>
+
+      <div class="separator"></div>
+
+      <?php 
+      include($adPath1);
+      ?>
 
       <div class="separator"></div>
 

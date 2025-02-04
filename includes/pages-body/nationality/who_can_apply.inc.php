@@ -29,6 +29,12 @@
 
       <div class="separator"></div>
 
+      <?php 
+      include($adPath1);
+      ?>
+
+      <div class="separator"></div>
+
       <!-- ¿Qué quiere decir originariamente español? -->
       <h2>¿Qué quiere decir originariamente español?</h2>
       <ul>
@@ -62,6 +68,12 @@
         Los modelos de solicitud se pueden obtener de manera telemática en la web del ministerio de justicia, del
         ministerio de asuntos exteriores o en el consulado al que pertenece según su lugar de residencia.
       </p>
+
+      <div class="separator"></div>
+
+      <?php 
+      include($adPath1);
+      ?>
 
       <div class="separator"></div>
 

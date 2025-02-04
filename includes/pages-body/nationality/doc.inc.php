@@ -49,6 +49,12 @@
 
       <div class="separator"></div>
 
+      <?php 
+      include($adPath1);
+      ?>
+
+      <div class="separator"></div>
+
       <!-- Documentación a aportar para el caso de Anexo II -->
       <h2 class="mt-4">Para el caso de Anexo II:</h2>
       <ul>
@@ -83,6 +89,12 @@
 
       <div class="separator"></div>
 
+      <?php 
+      include($adPath1);
+      ?>
+
+      <div class="separator"></div>
+
       <!-- Documentación a aportar para el caso de Anexo III -->
       <h2 class="mt-4">Para el caso de Anexo III</h2>
       <ul>
@@ -106,6 +118,12 @@
           aquel en el que se encuentra inscrito el nacimiento del padre o de la madre.
         </li>
       </ul>
+
+      <div class="separator"></div>
+
+      <?php 
+      include($adPath1);
+      ?>
 
       <div class="separator"></div>
 

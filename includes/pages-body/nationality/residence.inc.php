@@ -94,6 +94,12 @@
 
       <div class="separator"></div>
 
+      <?php 
+      include($adPath1);
+      ?>
+
+      <div class="separator"></div>
+
       <!-- Presentación de solicitudes -->
       <h2 class="mt-4">Presentación de solicitudes:</h2>
       <ul>
@@ -111,6 +117,12 @@
           tardar un tiempo considerable.
         </li>
       </ul>
+
+      <div class="separator"></div>
+
+      <?php 
+      include($adPath1);
+      ?>
 
       <div class="separator"></div>
 

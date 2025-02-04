@@ -31,6 +31,12 @@
 
       <div class="separator"></div>
 
+      <?php 
+      include($adPath1);
+      ?>
+
+      <div class="separator"></div>
+
       <!-- Requisitos para la solicitud -->
       <h2 class="mt-4">Requisitos para la solicitud</h2>
       <ul>
@@ -75,6 +81,12 @@
 
       <div class="separator"></div>
 
+      <?php 
+      include($adPath1);
+      ?>
+
+      <div class="separator"></div>
+
       <!-- Botones de navegación -->
       <div class="row justify-content-center align-items-center text-center mt-4 mb-3">
         <div class="col-12 col-sm-8 col-md-6 m-auto mt-md-2">
@@ -85,7 +97,6 @@
           </div>
         </div>
       </div>
-
     </div>
   </div>
 </div>

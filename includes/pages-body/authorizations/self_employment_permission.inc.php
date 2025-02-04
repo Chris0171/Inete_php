@@ -33,6 +33,12 @@
 
       <div class="separator"></div>
 
+      <?php 
+      include($adPath1);
+      ?>
+
+      <div class="separator"></div>
+
       <!-- Documentación Exigible -->
       <h2>Documentación Exigible</h2>
       <p>
@@ -102,6 +108,12 @@
 
       <div class="separator"></div>
 
+      <?php 
+      include($adPath1);
+      ?>
+
+      <div class="separator"></div>
+
       <!-- Procedimiento -->
       <h2>Procedimiento</h2>
 
@@ -143,6 +155,12 @@
 
       <div class="separator"></div>
 
+      <?php 
+      include($adPath1);
+      ?>
+
+      <div class="separator"></div>
+
       <!-- Botones de navegación -->
       <div class="row justify-content-center align-items-center text-center mt-4 mb-3">
         <div class="col-12 col-sm-8 col-md-6 m-auto mt-md-2">
@@ -153,7 +171,6 @@
           </div>
         </div>
       </div>
-
     </div>
   </div>
 </div>

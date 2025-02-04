@@ -125,6 +125,12 @@
 
       <div class="separator"></div>
 
+      <?php 
+      include($adPath1);
+      ?>
+
+      <div class="separator"></div>
+
       <div class="row justify-content-center align-items-center text-center mt-4 mb-3">
         <div class="col-12 col-sm-8 col-md-6 m-auto mt-5 mt-md-2">
           <p class="fw-bold">Consultar Ley de Memoria Democrática</p>

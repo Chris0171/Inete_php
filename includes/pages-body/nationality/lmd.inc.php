@@ -20,6 +20,12 @@
 
       <div class="separator"></div>
 
+      <?php 
+      include($adPath1);
+      ?>
+
+      <div class="separator"></div>
+
       <!-- Articulos clave sobre Nacionalidad -->
       <h2>Artículos claves sobre Nacionalidad</h2>
       <p>
@@ -110,6 +116,12 @@
           archivos diocesanos.
         </li>
       </ul>
+
+      <div class="separator"></div>
+
+      <?php 
+      include($adPath1);
+      ?>
 
       <div class="separator"></div>
 
