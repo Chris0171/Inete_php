@@ -272,8 +272,17 @@ span img {
 	font-weight: bold;
 	font-size: 18px;
 }
+/************************* Ads Styles *************************/
+
 .to-movil-ad {
 	display: none;
+}
+
+.ad-section-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%; /* Ocupa el ancho completo del contenedor padre */
 }
 
 /************************* Media Queries *************************/
